@@ -1,0 +1,352 @@
+.pre-header {
+  background-color: rgb(5, 5, 53);
+  color: white;
+  height: 10vh;
+  padding: 20px;
+}
+
+body i {
+  color: rgb(247, 213, 20);
+}
+i:hover {
+  color: rgb(247, 213, 20);
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nav-link {
+  color: rgb(5, 5, 53);
+}
+.nav-link:hover {
+  color: rgb(247, 213, 20);
+}
+.pre-header a {
+  text-decoration: none;
+  color: rgb(5, 5, 53);
+}
+a:hover {
+  color: gold;
+}
+.pre-header .white {
+  color: white;
+}
+.pre-header i {
+  margin: 0 10px 0 10px;
+  color: white;
+}
+.yellow i {
+  color: rgb(247, 213, 20);
+}
+.preheader a:hover {
+  color: rgb(247, 213, 20);
+}
+.background1 {
+  background-image: url(../images/person-on-black-suit-jacket-writing-on-white-paper-940829.jpg);
+  height: 80vh;
+  width: 100%;
+  object-fit: contain;
+}
+section {
+  height: 60vh;
+}
+.section1 {
+  height: 80vh;
+}
+.section1 a {
+  text-decoration: none;
+}
+.gold {
+  color: rgb(247, 213, 20);
+}
+.blue {
+  background-color: rgb(5, 5, 53);
+}
+.blue1 {
+  color: rgb(7, 7, 146);
+}
+.first-div {
+  margin: 180px 0 60px 20px;
+}
+.first-paragraph {
+  background-color: rgb(247, 213, 20);
+  border: 3px solid rgb(247, 213, 20);
+  padding: 3px;
+  color: ;
+}
+.second-paragraph {
+  background-color: rgb(8, 8, 102);
+  color: white;
+  border: 3px solid rgb(3, 3, 75);
+  padding: 3px;
+}
+.second-paragraph a {
+  color: white;
+}
+.first-paragraph a {
+  color: rgb(3, 3, 75);
+}
+
+.section2 {
+  background-color: white;
+  height: 70vh;
+}
+.section2 i {
+  font-size: 50px;
+  margin: 10px;
+  /* text-align: center; */
+}
+.section2 h4 {
+  color: rgb(8, 8, 102);
+  font-weight: 700;
+}
+.box-shadow {
+  background-color: white;
+  box-shadow: 10px 10px whitesmoke, 10px 10px whitesmoke;
+}
+.second-flex-container {
+  background-color: rgb(8, 8, 102);
+  color: white;
+}
+.section3 {
+  height: 80vh;
+}
+.container3 {
+  background-image: url(../images/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg);
+  height: 80vh;
+  object-fit: cover;
+}
+.transparency2 {
+  background-color: rgba(8, 8, 102, 0.548);
+  height: 80vh;
+}
+.section3-div {
+  padding: 80px 0 50px 0;
+}
+.image-container img {
+  width: 400px;
+  height: 300px;
+  border: 3px solid white;
+}
+.section3-paragraph {
+  background-color: rgb(247, 213, 20);
+  display: inline;
+}
+.section3-paragraph a {
+  color: rgba(8, 8, 102, 0.548);
+  font-weight: 600;
+}
+.section4 {
+  background-color: white;
+}
+.section4-container {
+  text-align: center;
+  margin: 60px 0 60px 0;
+}
+.section4-container .flex-items img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.section5 {
+  height: 80vh;
+}
+.background5 {
+  background-image: url(../images/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg);
+  height: 80vh;
+}
+.transparency5 {
+  background-color: rgba(8, 8, 102, 0.548);
+  height: 80vh;
+}
+.section5 i {
+  color: white;
+  font-size: 30px;
+}
+.section5-content {
+  text-align: center;
+  padding: 80px 0 80px 0;
+  margin: auto;
+  color: white;
+}
+.section6-content {
+  padding: 80px 0 80px 0;
+}
+.section6-content1 {
+  background-color: whitesmoke;
+  color: rgba(8, 8, 102, 0.548);
+}
+.section6-content2 {
+  background-color: whitesmoke;
+  color: rgba(8, 8, 102, 0.548);
+}
+.section6 {
+  color: rgb(8, 8, 102);
+}
+.background7 {
+  background-image: url(../images/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg);
+  height: 450px;
+  width: 100%;
+}
+.section7 .maps .iframes {
+  width: 550px;
+  height: 1000px;
+}
+.transparency7 {
+  background-color: rgba(8, 8, 102, 0.548);
+  height: 100%;
+  width: 100%;
+  /* text-align: center; */
+  padding: 40px 50px 30px 40px;
+  color: white;
+}
+.icons i {
+  font-size: 50px;
+  color: rgba(8, 8, 102, 0.548);
+}
+.icon-container {
+  margin-top: 40px;
+  padding: 20px;
+}
+input {
+  border: none;
+  margin: 5px;
+  width: 42%;
+}
+.section7-container {
+  /* margin: 30px 0 50px 0; */
+}
+.section7 {
+  height: 75vh;
+}
+.section8 {
+  background-color: rgb(5, 5, 53);
+  color: white;
+  height: 60vh;
+}
+.section8 a {
+  text-decoration: none;
+  color: white;
+}
+.section8 li {
+  list-style: none;
+}
+.section8 a:hover {
+  color: rgb(247, 213, 20);
+}
+.section8 i:hover {
+  color: rgb(247, 213, 20);
+}
+section {
+  height: 80vh;
+  margin: 20px 0 20px 0;
+}
+.section6 {
+  height: 60vh;
+}
+/* a:hover {
+  color: rgb(247, 213, 20);
+} */
+i:hover {
+  color: rgb(247, 213, 20);
+}
+.flex2 i {
+  color: white;
+}
+.flex2 i:hover {
+  color: rgb(247, 213, 20);
+}
+
+/* services section */
+.section1s {
+  background-color: rgb(5, 5, 53);
+}
+.section2flex {
+  display: flex;
+  align-content: space-between;
+}
+.small-box {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(5, 5, 53);
+    color: white;
+    margin: 0 10px 0 10px;
+    padding: 10px;
+}
+.section2s {
+}
+.section3s {
+  height: 50vh;
+}
+
+/* ABOUT PAGE */
+.image-block {
+  height: 250px;
+  width: 100%;
+}
+.flex-item2 {
+  flex-basis: 50%;
+}
+.section4a input {
+  width: 100%;
+  padding: 20px;
+}
+
+/* media queries */
+@media screen and (max-width: 600px) {
+  .section3-div .d-flex {
+    flex-direction: column;
+  }
+  .hide {
+    display: none;
+  }
+  .section3-div .image-container {
+    margin-left: 0;
+    padding-right: 200px;
+  }
+  .section3-div .image-container img {
+    width: 350px;
+  }
+  .section4-container .flex-items img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  .section2 {
+    height: 100vh;
+  }
+  .section3 {
+    height: 80vh;
+    padding-bottom: 30px;
+  }
+
+  .section6 {
+    height: 90vh;
+  }
+  .section7 {
+    height: 120vh;
+  }
+  .section7 input {
+    width: 100%;
+  }
+  .section8 {
+    height: 120vh;
+    /* background-color: yellow; */
+  }
+  .footer-flex .d-flex {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .section2 {
+    height: 140vh;
+  }
+  .section3 {
+    height: 100vh;
+  }
+  .section7 {
+    height: 130vh;
+  }
+}

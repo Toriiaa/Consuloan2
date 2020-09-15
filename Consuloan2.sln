@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consuloan2", "Consuloan2\Consuloan2.csproj", "{4B404C3A-8CEA-441D-BD5D-EB6F52527E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B404C3A-8CEA-441D-BD5D-EB6F52527E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B404C3A-8CEA-441D-BD5D-EB6F52527E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B404C3A-8CEA-441D-BD5D-EB6F52527E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B404C3A-8CEA-441D-BD5D-EB6F52527E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5568F6C-B8AC-43D7-93A1-3782E25B5727}
+	EndGlobalSection
+EndGlobal
